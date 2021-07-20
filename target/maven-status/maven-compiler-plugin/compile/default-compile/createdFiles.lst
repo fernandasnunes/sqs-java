@@ -1,0 +1,3 @@
+com/sqs/sqsjava/SqsjavaApplication.class
+com/sqs/sqsjava/service/MessageService.class
+com/sqs/sqsjava/controller/MessageController.class
